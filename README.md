@@ -1,15 +1,14 @@
 <html>
 <body>
-<table border="0">
-<tr>
-<td>
+<ul class="menu">
+<li class="has-dropdown">
+::before
 <a href="#1"><h6>Social Media</h6></a>
-</td>
-<td>
+</li>
+<li class="has-dropdown">
+::before
 <a href="#2"><h6>GCI</h6></a>
-</td>
-</tr>
-</table>
+</li>
 <h3 id="#1">Social Media</h3>
 <a target="_balnk" href="https://www.facebook.com/rasagnath.reddy">
 <img alt="Facebook" src="http://chittagongit.com//images/facebook-logo-icon/facebook-logo-icon-5.jpg" width="50px" height="50px">
