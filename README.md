@@ -6,7 +6,7 @@
 <a href="#1"><h6>Social Media</h6></a>
 </td>
 <td>
-<a href=#2"><h6>GCI</h6></a>
+<a href="#2"><h6>GCI</h6></a>
 </td>
 </tr>
 <h3 id="#1">Social Media</h3>
