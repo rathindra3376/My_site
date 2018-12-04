@@ -1,6 +1,6 @@
 <html>
 <body>
-<table>
+<table border="0">
 <tr>
 <td>
 <a href="#1"><h6>Social Media</h6></a>
