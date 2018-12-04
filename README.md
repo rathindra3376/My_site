@@ -5,5 +5,6 @@
 </a>
 <a target="_blank" href="https://twitter.com/rasagnathreddy">
 <img alt="Twitter" src="https://i2.wp.com/indusdictum.com/wp-content/uploads/2017/08/twitter-logo-4.png?ssl=1" width="50px" height="50px">
+</a>
 </body>
 </html>
