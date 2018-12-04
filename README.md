@@ -1,12 +1,10 @@
 <html>
 <body>
 <ul class="menu">
-<li class="has-dropdown">
-::before
+<li>
 <a href="#1"><h6>Social Media</h6></a>
 </li>
-<li class="has-dropdown">
-::before
+<li>
 <a href="#2"><h6>GCI</h6></a>
 </li>
 <h3 id="#1">Social Media</h3>
