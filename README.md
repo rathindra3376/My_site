@@ -11,11 +11,16 @@
 </tr>
 </table>
 <h3 id="#1">Social Media</h3>
+<p>
+This are my social media links. I hope you visit them.
 <a target="_balnk" href="https://www.facebook.com/rasagnath.reddy">
 <img alt="Facebook" src="http://chittagongit.com//images/facebook-logo-icon/facebook-logo-icon-5.jpg" width="50px" height="50px">
 </a>
 <a target="_balnk" href="https://twitter.com/rasagnathreddy">
 <img alt="Twitter" src="https://i2.wp.com/indusdictum.com/wp-content/uploads/2017/08/twitter-logo-4.png?ssl=1" width="50px" height="50px">
+</a>
+<a target="_blank" href="https://github.com/rathindra3376">
+<img alt="Github" src="https://image.flaticon.com/icons/svg/25/25231.svg">
 </a>
   <h3 id="#2">GCI</h3>
   <p>
