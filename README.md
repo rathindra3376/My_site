@@ -17,5 +17,9 @@
 <a target="_balnk" href="https://twitter.com/rasagnathreddy">
 <img alt="Twitter" src="https://i2.wp.com/indusdictum.com/wp-content/uploads/2017/08/twitter-logo-4.png?ssl=1" width="50px" height="50px">
 </a>
+  <h3 id="#2">GCI</h3>
+  <p>
+    I'm participating in GCI(Google Code-In) for 2 years and working with FOSSASIA.If you want to participate, <a target="_blank" href="https://codein.withgoogle.com/">click this link.</a>
+  </p>
 </body>
 </html>
