@@ -19,7 +19,15 @@
 </a>
   <h3 id="#2">GCI</h3>
   <p>
-    I'm participating in GCI(Google Code-In) for 2 years and working with FOSSASIA.If you want to participate, <a target="_blank" href="https://codein.withgoogle.com/">click this link.</a>
+    I'm participating in GCI(Google Code-In) for 2 years and working with FOSSASIA.If you want to participate, <a target="_blank" href="https://codein.withgoogle.com/">click this link</a>.
   </p>
+  <h4>SUSI</h4>
+  <p>I have created a bot in SUSI.AI. To interact with my bot, click the S symbol at the corner on the right side. To create your own bot <a target="_balnk" href="">click this link</a>.</p>
+  <script type="text/javascript" id="susi-bot-script" data-userid="1204bb7ded2af750cc97a119d9175867" data-group="Social" data-language="en" data-skill="Sumthing" src="https://skills.susi.ai/susi-chatbot.js" >
+</script>
+  <center>
+  <h5>THANKS for visiting my Github page.</h5>
+  <h6>I hope it would be updated much.</h6>
+</center>
 </body>
 </html>
