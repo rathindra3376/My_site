@@ -22,7 +22,7 @@
     I'm participating in GCI(Google Code-In) for 2 years and working with FOSSASIA.If you want to participate, <a target="_blank" href="https://codein.withgoogle.com/">click this link</a>.
   </p>
   <h4>SUSI</h4>
-  <p>I have created a bot in SUSI.AI. To interact with my bot, click the S symbol at the corner on the right side. To create your own bot <a target="_balnk" href="">click this link</a>.</p>
+  <p>I have created a bot in SUSI.AI. To interact with my bot, click the S symbol at the corner on the right side. To create your own bot <a target="_balnk" href="https://skills.susi.ai/">click this link</a>.</p>
   <script type="text/javascript" id="susi-bot-script" data-userid="1204bb7ded2af750cc97a119d9175867" data-group="Social" data-language="en" data-skill="Sumthing" src="https://skills.susi.ai/susi-chatbot.js" >
 </script>
   <center>
