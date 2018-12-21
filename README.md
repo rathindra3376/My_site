@@ -24,6 +24,9 @@ This are my social media links. I hope you visit them.
 <a target="_blank" href="https://github.com/rathindra3376">
 <img alt="Github" src="https://image.flaticon.com/icons/svg/25/25231.svg" width="50px" height="50px">
 </a>
+<a target="_blank" href="https://www.linkedin.com/in/rasagnath3376/">
+<img alt="Github" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="50px" height="50px">
+</a>
 </center>
 <h3 id="#2">GCI</h3>
 <p>
